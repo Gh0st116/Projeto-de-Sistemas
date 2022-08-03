@@ -1,0 +1,23 @@
+Comandos:
+Criar repositório: git init
+
+adicionar arquivo: git add (arquivo/diretorio)
+
+Commit (salvar alterações): git commit (arquivos/diretorios)
+
+primeiro push (salvar no github): git push -u origin master
+os demais pushes: git push
+
+atualizar repositorio local de acordo com o remoto na branch atual: git pull
+buscar alterações mas não atualizar: git fetch
+
+criar branch: git branch (nome)
+listar branches: git branch
+voltar para branch existente: git checkout (nome)
+
+resolver merge entre os branches: git merge (nome)
+
+remover arquivo: git rm (arquivo)
+remover diretorio: git rm -r (diretorio)
+
+exibir historico: git log 
